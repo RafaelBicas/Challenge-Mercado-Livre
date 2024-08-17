@@ -21,10 +21,11 @@ The data that will be returned is:
   - requests
   - pandas
   - unittest (for the unit tests)
+- Create one account on VirusTotal and update the API.properties with the API Key
 
 
 ## Inputs
-To make it easier for the user, it was created a file called api.properties with the following parameters:
+To make it easier for the user, it was created a file called API.properties with the following parameters:
 - API_KEY
   - The key from the VirusTotal public API to make it possible the connection. It can be acquired login into the VirusTotal.
 - FILE_TYPE

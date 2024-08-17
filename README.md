@@ -6,7 +6,7 @@ The CTI report will be sent to the team for correction and the tool, documentati
 The tool was developed using Python 3 and the Pycharm IDE. The OS developed was Windows 10 Home
 
 # Documentation
-This API was developed to help on CTI research when it is related to malware data. It will provide information from [VirusTotal](https://www.virustotal.com/gui/home/upload) regarding the hash searched and will return the information separated regarding it.
+This API was developed to help on CTI research when it is related to malware data. It will provide information from [VirusTotal](https://www.virustotal.com/gui/home/upload) regarding the hash submitted and will return the information regarding it.
 
 The data that will be returned is:
 - Names

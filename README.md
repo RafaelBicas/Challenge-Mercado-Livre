@@ -50,3 +50,7 @@ This API was developed with the following endpoints:
   - Once it is returned the data on the web browser, the same data will be stored in file(s) (xlsx or csv) if the parameter specify it.
   - The already tested hash algorithms that are able to be used are: sha256, sha1, md5.
  - Use example on browser: http://127.0.0.1:5000/hash_search/ced3557310b98b8a1ede8c1c24c4997a2eb2e05e561dd0b6ca36627f0d987d14
+
+## Unit Tests
+For the unit tests, it will be necessary to install the python library 'unittest' before running it. 
+All the tests performed are related to the API developed.

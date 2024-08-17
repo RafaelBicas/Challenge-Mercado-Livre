@@ -3,7 +3,7 @@
 # Scope
 The test is related to the creation of a CTI report and the development of a tool to retrieve data used for our analysis.
 The CTI report will be sent to the team for correction and the tool, documentation and Unit tests will be stored in GitHub.
-The tool was developed using Python 3 and a Windows 10 Home OS
+The tool was developed using Python 3 and the Pycharm IDE. The OS developed was Windows 10 Home
 
 # Documentation
 This API was developed to help on CTI research when it is related to malware data. It will provide information from [VirusTotal](https://www.virustotal.com/gui/home/upload) regarding the hash searched and will return the information separated regarding it.
